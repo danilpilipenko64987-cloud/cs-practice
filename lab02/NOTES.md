@@ -1,0 +1,6 @@
+#work directory
+
+#index
+
+#commit
+
